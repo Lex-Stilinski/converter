@@ -1,0 +1,17 @@
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\bin\Debug\net6.0\convert.exe
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\bin\Debug\net6.0\convert.deps.json
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\bin\Debug\net6.0\convert.runtimeconfig.json
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\bin\Debug\net6.0\convert.dll
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\bin\Debug\net6.0\convert.pdb
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.csproj.AssemblyReference.cache
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.AssemblyInfoInputs.cache
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.AssemblyInfo.cs
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.csproj.CoreCompileInputs.cache
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.csproj.CopyComplete
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.dll
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\refint\convert.dll
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.pdb
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\convert.genruntimeconfig.cache
+D:\Yarik\c#\practic\Практичсекая_6\Практичсекая_6\obj\Debug\net6.0\ref\convert.dll

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Model>
+    <Fandom>Marvel</Fandom>
+    <Character_1>Venom</Character_1>
+    <Character_2>Iron Man</Character_2>
+  </Model>
+  <Model>
+    <Fandom>DC</Fandom>
+    <Character_1>Batman</Character_1>
+    <Character_2>Joker</Character_2>
+  </Model>
+</ArrayOfModel>
